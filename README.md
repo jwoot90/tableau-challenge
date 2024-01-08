@@ -2,6 +2,9 @@
 Data Source
 Monthly CSV files (September 2023- November 2023) were collected from Citi Bike Data webpage.
 
+Visualizations
+https://public.tableau.com/app/profile/john.wooten1526/viz/TableauChallenge_17044281314150/Story1
+
 Since the data from the CitiBike website was stored in .csv files and consisted of 1000s of rows, I wanted to consolidate all of this data into one csv file that I would upload to Tableau. 
 To accomplish this task I used the Pandas library in Jupyter Notebook to consolidate all of the files. 
 <img width="573" alt="Pandas - Tableau Challenge" src="https://github.com/jwoot90/tableau-challenge/assets/35399563/f53d5b81-c2ae-4cd5-9108-858b7b1a2386">
